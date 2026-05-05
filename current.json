@@ -1,0 +1,14 @@
+{
+  "macosx_arm64": {
+    "ver": "1.0",
+    "file": "https://github.com/intesi-group/ig-desk-updater/releases"
+  },
+  "macosx_x64": {
+    "ver": "1.0",
+    "file": "https://github.com/intesi-group/ig-desk-updater/releases"
+  },
+  "windows": {
+    "ver": "1.0",
+    "file": "https://github.com/intesi-group/ig-desk-updater/releases"
+  }
+}
